@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\C#\Microsoft_Learn\bin\Debug\net6.0\Microsoft_Learn.exe
+C:\Users\gabri\Documents\C#\Microsoft_Learn\bin\Debug\net6.0\Microsoft_Learn.deps.json
+C:\Users\gabri\Documents\C#\Microsoft_Learn\bin\Debug\net6.0\Microsoft_Learn.runtimeconfig.json
+C:\Users\gabri\Documents\C#\Microsoft_Learn\bin\Debug\net6.0\Microsoft_Learn.dll
+C:\Users\gabri\Documents\C#\Microsoft_Learn\bin\Debug\net6.0\Microsoft_Learn.pdb
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\Microsoft_Learn.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\Microsoft_Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\Microsoft_Learn.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\Microsoft_Learn.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\Microsoft_Learn.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\Microsoft_Learn.dll
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\refint\Microsoft_Learn.dll
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\Microsoft_Learn.pdb
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\Microsoft_Learn.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\Microsoft_Learn\obj\Debug\net6.0\ref\Microsoft_Learn.dll
