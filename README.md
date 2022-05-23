@@ -1,3 +1,7 @@
 # Microsoft Learn
-
- * Esse Diretório tem como objetivo, salvar atividades do Microsoft Learn.
+  
+  ## Objetivo
+  
+  * Salvar os exercícios de Microsoft Learn.
+  * Acompanhar a evolução do aprendizado, na linguagem C#.
+  * Refatorar código após evolução do aprendizado.
